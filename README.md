@@ -13,9 +13,9 @@
 
 <!-- - 💬 Ask me about **Data Training, Data Modelling, Data Visualization, Python Programming, and Databases** -->
 
-- 📫 How to reach me **mulyaninis119@gmail.com**
+- 📫 Reach me at **mulyaninis119@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mulyafajarningsihalwi/](https://www.linkedin.com/in/mulyafajarningsihalwi/)
+- 📄 Know about my experiences at [https://www.linkedin.com/in/mulyafajarningsihalwi/](https://www.linkedin.com/in/mulyafajarningsihalwi/)
 
 <!-- - ⚡ About me **eager to learn new things, detail-oriented, and responsible** -->
 
