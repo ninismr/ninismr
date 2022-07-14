@@ -1,23 +1,23 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://ninismr.io) 
 <h1 align="center">Hi 👋, I'm Mulya Fajar Ningsih Alwi</h1>
-<h3 align="center">An undergraduate student in Information Technology major from Indonesia, who is passionate about the data science field</h3>
-<img align="right" alt="Coding" width="400" src="../gifme.gif">
+<h3 align="center">Information Technology Undergraduate Student || Data Science Enthusiast</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/01d3300ea655f716d67efa6665113005.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninismr&label=Profile%20views&color=0e75b6&style=flat" alt="ninismr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ninismr_" target="blank"><img src="https://img.shields.io/twitter/follow/ninismr_?logo=twitter&style=for-the-badge" alt="ninismr_" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Modelling, Data Mining, Data Visualization, Mathematical Statistics, and Data Prediction/Analysis**
+- 🌱 I’m currently learning **about data science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ninismr](https://github.com/ninismr)
 
-- 💬 Ask me about **Data Training, Data Modelling, Data Visualization, Python Programming, and Databases**
+<!-- - 💬 Ask me about **Data Training, Data Modelling, Data Visualization, Python Programming, and Databases** -->
 
 - 📫 How to reach me **mulyaninis119@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mulyafajarningsihalwi/](https://www.linkedin.com/in/mulyafajarningsihalwi/)
 
-- ⚡ About me **I am a people that are eager to learn new things, detail-oriented, responsible, have problem-solving and time-management skills, and can work in a team and independently**
+<!-- - ⚡ About me **eager to learn new things, detail-oriented, and responsible** -->
 
 <h2>👨‍💻 Projects:</h2>
 
