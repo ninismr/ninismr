@@ -24,6 +24,7 @@
 - <b>Python Programming Language</b>
   - [Dataset Training and Decision Tree Model](https://github.com/ninismr/Dataset-Training-and-Decision-Tree-Model-using-Python-Programming-Language)
   - [Travel Insurance Analysis](https://github.com/ninismr/Travel-Insurance-Analysis-using-Python-Programming-Language) 
+  - [Case Study: Importing Data (.csv file) into Database System](https://github.com/ninismr/CaseStudy2)
   - [AI Image-to-Speech Recognition Program](https://github.com/ninismr/AI-Image-to-Speech-Recognition-Program-using-Python-Programming-Language)
   - [AI Hand Gesture Recognition (Finger Counter)](https://github.com/ninismr/AI-Hand-Gesture-Recognition-using-Python-Programming-Language)
   - [Shooter Game](https://github.com/ninismr/Shooter-Game-using-PyGame-with-Python-Programming-Language)
