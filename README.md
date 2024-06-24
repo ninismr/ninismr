@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/ninismr_" target="blank"><img src="https://img.shields.io/twitter/follow/ninismr_?logo=twitter&style=for-the-badge" alt="ninismr_" /></a> </p> -->
 
-- 🌱 I’m currently learning **about data science**
+- 🌱 I’m currently learning **about data science and machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ninismr](https://github.com/ninismr)
 
@@ -21,6 +21,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Purwadhika DTI Data Science and Machine Learning Projects</b>
+  - [Capstone Project 1 (Python Fundamental): Library Management System (Python Terminal Based)](https://github.com/ninismr/Library-Management-System)
+  - [Capstone Project 2 (Data Analysis): Online Retail Shipping: Delivery Performance Analysis (Python + Tableau)](https://github.com/ninismr/Capstone2_OnlineRetailShipping)
 - <b>Python Programming Language</b>
   - [Dataset Training and Decision Tree Model](https://github.com/ninismr/Dataset-Training-and-Decision-Tree-Model-using-Python-Programming-Language)
   - [Travel Insurance Analysis](https://github.com/ninismr/Travel-Insurance-Analysis-using-Python-Programming-Language) 
