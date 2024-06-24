@@ -98,32 +98,32 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="120" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="100" height="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="80" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg" alt="pandas" width="100" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg" alt="pandas" width="80" height="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp; 
+  </a>&nbsp;&nbsp;
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib.svg" alt="matplotlib" width="100" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp; 
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib.svg" alt="matplotlib" width="80" height="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/detain/svg-logos/blob/master/svg/t/tableau-logo-1.svg" alt="tableau" width="100" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="100" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" alt="jupyter" width="40" height="40"/>
   </a>
