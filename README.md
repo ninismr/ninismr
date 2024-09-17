@@ -24,6 +24,7 @@
 - <b>Purwadhika DTI Data Science and Machine Learning Projects</b>
   - [Capstone Project 1 (Python Fundamental): Library Management System (Python Terminal Based)](https://github.com/ninismr/Library-Management-System)
   - [Capstone Project 2 (Data Analysis): Online Retail Shipping: Delivery Performance Analysis (Python + Tableau)](https://github.com/ninismr/Capstone2_OnlineRetailShipping)
+  - [Capstone Project 3 (Machine Learning): Travel Insurance Analysis and Prediction (Python)](https://github.com/ninismr/Capstone3_Travel_Insurance)
 - <b>Python Programming Language</b>
   - [Dataset Training and Decision Tree Model](https://github.com/ninismr/Dataset-Training-and-Decision-Tree-Model-using-Python-Programming-Language)
   - [Travel Insurance Analysis](https://github.com/ninismr/Travel-Insurance-Analysis-using-Python-Programming-Language) 
