@@ -1,6 +1,6 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://ninismr.io) 
 <h1 align="center">Hi 👋, I'm Mulya Fajar Ningsih Alwi</h1>
-<h3 align="center">Informatics Undergraduate || Data Science Enthusiast</h3>
+<h3 align="center">Informatics Undergraduate || Data Science and Machine Learning Enthusiast</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/01d3300ea655f716d67efa6665113005.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninismr&label=Profile%20views&color=0e75b6&style=flat" alt="ninismr" /> </p>
