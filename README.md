@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **mulyaninis119@gmail.com** and **081341815533**
 
-- 📄 Know about my experiences at [https://www.linkedin.com/in/mulyafajarningsihalwi/](https://www.linkedin.com/in/mulyafajarningsihalwi/)
+- 📄 Know about my experiences at [my LinkedIn account](https://www.linkedin.com/in/mulyafajarningsihalwi/)
 
 <!-- - ⚡ About me **eager to learn new things, detail-oriented, and responsible** -->
 
