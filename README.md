@@ -13,7 +13,7 @@
 
 <!-- - 💬 Ask me about **Data Training, Data Modelling, Data Visualization, Python Programming, and Databases** -->
 
-- 📫 Reach me at **mulyaninis119@gmail.com**
+- 📫 Reach me at **mulyaninis119@gmail.com** and **081341815533**
 
 - 📄 Know about my experiences at [https://www.linkedin.com/in/mulyafajarningsihalwi/](https://www.linkedin.com/in/mulyafajarningsihalwi/)
 
@@ -25,7 +25,9 @@
   - [Capstone Project 1 (Python Fundamental): Library Management System (Python Terminal Based)](https://github.com/ninismr/Library-Management-System)
   - [Capstone Project 2 (Data Analysis): Online Retail Shipping: Delivery Performance Analysis (Python + Tableau)](https://github.com/ninismr/Capstone2_OnlineRetailShipping)
   - [Capstone Project 3 (Machine Learning): Travel Insurance Analysis and Prediction (Python)](https://github.com/ninismr/Capstone3_Travel_Insurance)
+  - [Final Project: Brazilian E-Commerce: Business Analysis and Recommendation System (Python + Tableau)](https://github.com/ninismr/FinalProject_OlistEcommerce)
 - <b>Python Programming Language</b>
+  - [Web-Based Image-to-Speech Converter Application](https://github.com/ninismr/FlaskWebApp_ImageToSpeechConverter)
   - [Dataset Training and Decision Tree Model](https://github.com/ninismr/Dataset-Training-and-Decision-Tree-Model-using-Python-Programming-Language)
   - [Travel Insurance Analysis](https://github.com/ninismr/Travel-Insurance-Analysis-using-Python-Programming-Language) 
   - [Case Study: Importing Data (.csv file) into Database System](https://github.com/ninismr/CaseStudy2)
