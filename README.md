@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **about data science and machine learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ninismr](https://github.com/ninismr)
+- 👨‍💻 All of my projects are also available at [my portfolio](https://sites.google.com/view/ninisportfolio)
 
 <!-- - 💬 Ask me about **Data Training, Data Modelling, Data Visualization, Python Programming, and Databases** -->
 
