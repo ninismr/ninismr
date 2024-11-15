@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **about data science and machine learning**
 
-- 👨‍💻 All of my projects are also available at [my portfolio](https://sites.google.com/view/ninisportfolio)
+- 👨‍💻 All of my projects are also available in [my portfolio](https://sites.google.com/view/ninisportfolio)
 
 <!-- - 💬 Ask me about **Data Training, Data Modelling, Data Visualization, Python Programming, and Databases** -->
 
 - 📫 Reach me at **mulyaninis119@gmail.com** and **081341815533**
 
-- 📄 Know about my experiences at [my LinkedIn account](https://www.linkedin.com/in/mulyafajarningsihalwi/)
+- 📄 Know about my experiences on [my LinkedIn account](https://www.linkedin.com/in/mulyafajarningsihalwi/)
 
 <!-- - ⚡ About me **eager to learn new things, detail-oriented, and responsible** -->
 
